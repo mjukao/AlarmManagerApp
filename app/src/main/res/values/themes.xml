@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- กำหนดสีต่างๆ ที่จำเป็น -->
+        <item name="colorSurface">@android:color/white</item>
+    </style>
+
+
+</resources>

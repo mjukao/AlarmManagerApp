@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlarmManagerApp</string>
+    <string name="select_time">SELECT TIME</string>
+    <string name="set_alarm">SET ALARM</string>
+    <string name="cancel_alarm">CANCEL ALARM</string>
+    <string name="close_app">CLOSE APP</string>
+    <string name="author">Mr. Kittikorn Chumlatsamee 6604101305</string>
+    <string name="language_switch_btn">ภาษาไทย</string>
+
+</resources>
